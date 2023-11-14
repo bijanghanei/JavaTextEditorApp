@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaTextEditor.iml" filepath="$PROJECT_DIR$/JavaTextEditor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaTextEditorApp.iml" filepath="$PROJECT_DIR$/JavaTextEditorApp.iml" />
     </modules>
   </component>
 </project>
